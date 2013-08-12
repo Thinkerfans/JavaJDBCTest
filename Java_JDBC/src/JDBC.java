@@ -82,6 +82,8 @@ public class JDBC {
 	}
 
 	public static void main(final String[] args) throws Exception {
+		
+		//TODO 
 		 get();
 //		add();
 	}
