@@ -82,7 +82,7 @@ public class JDBC {
 	}
 
 	public static void main(final String[] args) throws Exception{
-		 get();
+		 get();//TODO,by thinker
 //		add();
 	}
 }
